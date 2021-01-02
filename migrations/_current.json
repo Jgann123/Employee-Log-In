@@ -1,0 +1,9 @@
+{
+    "tables": {
+        "employees": {
+            "tableName": "employees",
+            "indexes": []
+        }
+    },
+    "revision": 1
+}
